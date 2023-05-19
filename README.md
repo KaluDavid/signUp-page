@@ -3,8 +3,9 @@ A replicate of a Sign Up Page
 <br />
 
 ## Built with
->-HTML
->-CSS
+-HTML
+<br />
+-CSS
 
 ## Live Demo
 >[Live Demo Link](https://kaludavid.github.io/signUp-page/)
